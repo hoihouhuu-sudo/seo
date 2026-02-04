@@ -27,8 +27,7 @@ data-analysis-practice
 - pandas
 - numpy
 - matplotlib
-- seaborn
-- 
+- seaborn 
 
 ## 결과요약
 실습을 통해 직접 코드를 적어보고 선,막대,히스토그램, 바이올린 플롯 그래프를 통해
@@ -36,4 +35,4 @@ data-analysis-practice
 
 ## 느낀점
 목적에 맞게 다양한 도구를 사용하여 직접 코드를 사용해 보고 
-그래프를 만들어 
+그래프를 만들어 해석해 보는데 의의가 있었다.
